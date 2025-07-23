@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './pages/About'
 import Projects from './pages/Projects'
-import Contact from './pages/Contact'
+import Contact from './Pages/Contact'
 import Footer from './layout/Footer'
 
 export default function App() {
