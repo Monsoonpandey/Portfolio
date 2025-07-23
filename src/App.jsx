@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom'
-import Navbar from './components/Navbar'
-import Hero from './components/Hero'
-import About from './pages/About'
-import Projects from './pages/Projects'
+import Navbar from './Components/Navbar'
+import Hero from './Components/Hero'
+import About from './Pages/About'
+import Projects from './Pages/Projects'
 import Contact from './Pages/Contact'
 import Footer from './layout/Footer'
 
